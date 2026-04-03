@@ -14,9 +14,6 @@ Not chatbots — experiences. Not demos — products. Not prompts — systems th
 **Immersive & AR**
 `Snap Lens Studio` `8th Wall` `WebAR` `Unity` `Nana Banana`
 
-**Frontend & Build**
-`React` `TypeScript` `Vite` `Tailwind CSS` `Next.js`
-
 **Infra & Deploy**
 `Google Cloud Run` `Vercel` `Supabase` `Firebase`
 
