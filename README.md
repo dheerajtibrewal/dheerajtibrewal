@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @dheerajtibrewal
-- 👀 Augmented Reality Software Developer ...
-- 🌱 Constant Learner | Immersive Tech Pycho ...
+# Hey, I'm Dheeraj 👋
+
+**Senior Creative Technologist** building intelligent experiences at the intersection of **AI, design, and immersive technology.**
+
+Not chatbots — experiences. Not demos — products. Not prompts — systems that think, act, and create.
+
+---
+
+## 🧠 What I Work With
+
+**AI & Generative**
+`Gemini API` `Google ADK` `Vertex AI` `ElevenLabs` `Sarvam TTS` `Lyria` `LangChain`
+
+**Immersive & AR**
+`Snap Lens Studio` `8th Wall` `WebAR` `Unity` `Nana Banana`
+
+**Frontend & Build**
+`React` `TypeScript` `Vite` `Tailwind CSS` `Next.js`
+
+**Infra & Deploy**
+`Google Cloud Run` `Vercel` `Supabase` `Firebase`
+
+---
 
 
-<!---
-dheerajtibrewal/dheerajtibrewal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dheerajtibrewal-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dheeraj-tibrewal)
+[![X](https://img.shields.io/badge/X-@dheerajtibrewal-black?style=flat&logo=x)](https://x.com/dheerajtibrewal)
+
+---
