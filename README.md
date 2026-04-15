@@ -9,7 +9,7 @@ Not chatbots — experiences. Not demos — products. Not prompts — systems th
 ## 🧠 What I Work With
 
 **AI & Generative**
-`Gemini API` `Google ADK` `Vertex AI` `ElevenLabs` `Sarvam TTS` `Lyria` `LangChain`
+`Gemini API` `Google ADK` `Vertex AI` `Adobe Firefly` `ElevenLabs` `Sarvam TTS` `Lyria` `LangChain`
 
 **Immersive & AR**
 `Snap Lens Studio` `8th Wall` `WebAR` `Unity` `Nana Banana`
